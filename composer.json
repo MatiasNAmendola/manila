@@ -1,0 +1,8 @@
+{
+	"name": "manila/manila",
+    "description": "Bootstrap Form Generator for PHP",
+	"version": "1.0.0",
+	"require": {
+		"php": ">=5.3.2"
+	}
+}
